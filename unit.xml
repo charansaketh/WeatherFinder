@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 92.0.4515 (Mac OS X 10.15.7)" package="unit" timestamp="2021-08-05T14:53:27" id="0" hostname="LOH085W201LHTD6.cardinalhealth.net" tests="5" errors="0" failures="0" time="0.145">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/92.0.4515.131 Safari/537.36"/>
+  </properties>
+  <testcase name="WeatherFinder Should search and render the data - 2" time="0.072" classname=".WeatherFinder"/>
+  <testcase name="WeatherFinder Should show No Results Found when there are no results from API" time="0.022" classname=".WeatherFinder"/>
+  <testcase name="WeatherFinder Perform series of actions" time="0.02" classname=".WeatherFinder"/>
+  <testcase name="WeatherFinder Should search and render the data - 1" time="0.016" classname=".WeatherFinder"/>
+  <testcase name="WeatherFinder Should render the Initial UI correctly" time="0.015" classname=".WeatherFinder"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
